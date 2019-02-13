@@ -1,7 +1,5 @@
-{
-  "clientes": [
+[
     { "id": 1, "nome": "Samuel 1" },
     { "id": 2, "nome": "Samuel 2" },
     { "id": 3, "nome": "Samuel 3" }
-  ]
-}
+]
